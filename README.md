@@ -26,15 +26,7 @@ My core competencies cover the full development lifecycle, from modern UI/UX to 
 
 > IT Park Center provided a robust foundation in web application development, enabling hands-on experience with React.js, Next.js, and TypeScript. Core competencies include optimizing UI/UX, implementing state management with Redux/Zustand, and leveraging Tailwind CSS for seamless frontend design. At IT Park Center, work centered on building and improving modern React.js applications to enhance user experience and accessibility. Contributions aligned with a team-driven culture, emphasizing collaboration and innovation to deliver optimized solutions that reflect diverse perspectives and technical expertise.
 
----
 
-### 📊 My GitHub Stats
-
-A snapshot of my overall activity and contributions:
-
-[![Bakhtiyor's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&rank_icon=github&hide=prs)](https://github.com/anurag-majumdar/github-readme-stats)
-
----
 
 ### 🌐 Connect with Me
 
