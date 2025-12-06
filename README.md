@@ -1,37 +1,52 @@
-### 👋 Salom! Men Baxtiyor Qurbonnazarov, Junior Front-end Developer
+### 👋 Hi there! I'm Bakhtiyor Qurbonnazarov, a Strong Junior Full-stack Developer
 
-Menda zamonaviy va yuqori samarali veb-ilovalarni yaratishga bo'lgan ishtiyoq kuchli. Yangi texnologiyalarni o'rganishga va jamoada ishlashga tayyorman.
-
----
-
-### 💻 Texnologiyalar va Asboblar
-
-Mening asosiy ko'nikmalarim va ishlatadigan vositalarim:
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,reactquery,tailwind,sass,mui,git)](https://skillicons.dev)
+I am a passionate Strong Junior Full-stack Developer dedicated to building high-quality, scalable applications across web, mobile, and desktop platforms. I enjoy tackling complex problems and using a broad range of technologies to deliver effective solutions.
 
 ---
 
-### 📊 GitHub Statistika
+### 💻 Tech Stack & Tools
 
-Mening oxirgi faoliyatim va hissamga oid umumiy statistika:
+My core competencies cover the full development lifecycle, from modern UI/UX to robust backend services.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sizning_github_nomingiz&show_icons=true&theme=dark&rank_icon=github&hide=prs)](https://github.com/anurag-majumdar/github-readme-stats)
+#### Frontend & UI/UX
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,reactquery,tailwind,sass,mui)](https://skillicons.dev)
 
----
+#### Backend & Databases
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,sql,postgresql,mongodb)](https://skillicons.dev)
 
-### 🌐 Meni Kuzating
-
-Mening professional va shaxsiy tarmoqlarim orqali bog'lanishingiz mumkin.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sizning_linkedin_profilingiz)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sizning_telegram_username)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sizning_instagram_username)
+#### Mobile, Desktop & Specialized Skills
+[![Other Skills](https://skillicons.dev/icons?i=reactnative,cpp,github,git,vscode)](https://skillicons.dev)
+*Specialized: **Telegram Bot Development** (using Node.js/Telegraf)*
 
 ---
 
-### 💬 Men bilan bog'lanish
+### 🚀 Experience and Background
 
-Agar sizda biron bir loyiha taklifi, savol bo'lsa yoki shunchaki suhbatlashmoqchi bo'lsangiz, bemalol murojaat qiling:
+#### IT Park Center (Web Development Foundation)
 
-**E-mail:** `baxtiyorqurbonnazarov@example.com`
+> IT Park Center provided a robust foundation in web application development, enabling hands-on experience with React.js, Next.js, and TypeScript. Core competencies include optimizing UI/UX, implementing state management with Redux/Zustand, and leveraging Tailwind CSS for seamless frontend design. At IT Park Center, work centered on building and improving modern React.js applications to enhance user experience and accessibility. Contributions aligned with a team-driven culture, emphasizing collaboration and innovation to deliver optimized solutions that reflect diverse perspectives and technical expertise.
+
+---
+
+### 📊 My GitHub Stats
+
+A snapshot of my overall activity and contributions:
+
+[![Bakhtiyor's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&rank_icon=github&hide=prs)](https://github.com/anurag-majumdar/github-readme-stats)
+
+---
+
+### 🌐 Connect with Me
+
+Feel free to connect with me through my professional and social channels:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzb-coder)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/uz_coder_06)
+
+---
+
+### 📧 Get In Touch
+
+If you have a potential Full-stack project, a job offer, or just want to discuss technology, please reach out!
+
+**E-mail:** `baxtiyorqurbonnazarov33@example.com`
