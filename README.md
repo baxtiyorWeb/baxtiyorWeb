@@ -41,4 +41,4 @@ Feel free to connect with me through my professional and social channels:
 
 If you have a potential Full-stack project, a job offer, or just want to discuss technology, please reach out!
 
-**E-mail:** `baxtiyorqurbonnazarov33@example.com`
+**E-mail:** `baxtiyorqurbonnazarov33@gmail.com`
